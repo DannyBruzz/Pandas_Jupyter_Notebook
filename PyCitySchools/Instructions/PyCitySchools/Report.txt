@@ -1,0 +1,5 @@
+As we can see from the data, students scored higher in maths both in terms of average score and passing rates than reading. 
+
+The data suggests that a higher spending range per student does not correlate to a higher passing rate, with schools that spend between $585-630 per student having the highest overall passing mark. 
+
+FInally, schools that are classed small to medium sized have a considerably higher overall passing rate than those clased large.
